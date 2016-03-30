@@ -1,0 +1,23 @@
+{
+  "name": "modernizr-detectizr",
+  "version": "0.0.1",
+  "description": "Modernizr JS + Detectizr JS concatenated libraries",
+  "main": "libs/modernizr-detectizr.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanbrujo/modernizr-detectizr.git"
+  },
+  "keywords": [
+    "modernizr",
+    "detectizr"
+  ],
+  "author": "Jorge Epuñan @csslab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanbrujo/modernizr-detectizr/issues"
+  },
+  "homepage": "https://github.com/juanbrujo/modernizr-detectizr#readme"
+}

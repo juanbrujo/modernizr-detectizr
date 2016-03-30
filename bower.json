@@ -1,0 +1,22 @@
+{
+  "name": "modernizr-detectizr",
+  "description": "Modernizr JS + Detectizr JS concatenated libraries",
+  "main": "libs/modernizr-detectizr.min.js",
+  "authors": [
+    "Jorge Epuñan @csslab"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "modernizr",
+    "detectizr"
+  ],
+  "homepage": "https://github.com/juanbrujo/modernizr-detectizr",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
