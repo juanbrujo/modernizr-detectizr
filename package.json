@@ -1,6 +1,6 @@
 {
   "name": "modernizr-detectizr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Modernizr JS + Detectizr JS concatenated libraries",
   "main": "libs/modernizr-detectizr.min.js",
   "scripts": {
